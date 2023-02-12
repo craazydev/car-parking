@@ -1,7 +1,4 @@
-import command.Command.*
-import model.Hint
-import model.Manager
-import model.Parking
+import Command.*
 
 var parkingOpen: Boolean = true
 
